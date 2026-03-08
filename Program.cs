@@ -74,3 +74,6 @@ app.UseAuthentication();  // moet vóór UseAuthorization!
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
+
+
+// azure deployment test
